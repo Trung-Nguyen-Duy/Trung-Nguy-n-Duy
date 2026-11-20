@@ -17,7 +17,7 @@
 ### 🐾 A little bit about me
 
 🌱 Currently surviving as an Intern BrSE  
-💻 Eat • Sleep • Code • Repeat  
+💻 Ăn • Ngủ • Code • Học làm BrSE   
 ☕ Powered by coffee and curiosity  
 🐛 Bugs are just unexpected features!
 
